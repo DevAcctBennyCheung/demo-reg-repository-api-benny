@@ -1,0 +1,37 @@
+[
+    {
+        "regOptId":1,
+        "regOptName":"3KM Race 三公里賽跑",
+        "regOptPrice":150,
+        "regOptImage":"reg-opt-img-1.jpg",
+        "regOptDescription":"This is the registration for 3KM race event. 這是三公里賽跑活動的報名表。"
+    },
+    {
+        "regOptId":2,
+        "regOptName":"6KM Race 六公里賽跑",
+        "regOptPrice":200,
+        "regOptImage":"reg-opt-img-2.jpg",
+        "regOptDescription":"This is the registration for 6KM race event. 這是六公里賽跑活動的報名表。"
+    },
+    {
+        "regOptId":3,
+        "regOptName":"10KM Race 十公里賽跑",
+        "regOptPrice":250,
+        "regOptImage":"reg-opt-img-3.jpg",
+        "regOptDescription":"This is the registration for 10KM race event. 這是十公里賽跑活動的報名表。"
+    },
+    {
+        "regOptId":4,
+        "regOptName":"Half Marathon 半馬拉松",
+        "regOptPrice":300,
+        "regOptImage":"reg-opt-img-4.jpg",
+        "regOptDescription":"This is the registration for half marathon race event. 這是半馬拉松賽跑活動的報名表。"
+    },
+        {
+        "regOptId":5,
+        "regOptName":"Marathon 馬拉松",
+        "regOptPrice":350,
+        "regOptImage":"reg-opt-img-5.jpg",
+        "regOptDescription":"This is the registration for marathon race event. 這是馬拉松賽跑活動的報名表。"
+    }
+]
